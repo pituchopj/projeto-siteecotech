@@ -48,3 +48,5 @@ export default tseslint.config({
   },
 })
 ```
+## Projeto Desenvolvido por EcoTech e equipe
+© 2025 EcoTech. Todos os direitos reservados.
